@@ -1,0 +1,17 @@
+# Ignore database file
+*.sql
+
+# Ignore local config
+koneksi.php
+
+# Ignore cache/session folder
+cache/
+sessions/
+
+# Ignore OS/System files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
